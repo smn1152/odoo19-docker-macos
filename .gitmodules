@@ -1,3 +1,18 @@
 [submodule "external-addons/stock-logistics-barcode"]
 	path = external-addons/stock-logistics-barcode
 	url = https://github.com/smn1152/stock-logistics-barcode.git
+[submodule "external-addons/stock-logistics-warehouse"]
+	path = external-addons/stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+[submodule "external-addons/stock-logistics-workflow"]
+	path = external-addons/stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+[submodule "external-addons/stock-logistics-reporting"]
+	path = external-addons/stock-logistics-reporting
+	url = https://github.com/OCA/stock-logistics-reporting.git
+[submodule "external-addons/stock-logistics-transport"]
+	path = external-addons/stock-logistics-transport
+	url = https://github.com/OCA/stock-logistics-transport.git
+[submodule "external-addons/stock-logistics-tracking"]
+	path = external-addons/stock-logistics-tracking
+	url = https://github.com/OCA/stock-logistics-tracking.git
