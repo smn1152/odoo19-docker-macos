@@ -1,0 +1,3 @@
+[submodule "external-addons/stock-logistics-barcode"]
+	path = external-addons/stock-logistics-barcode
+	url = https://github.com/smn1152/stock-logistics-barcode.git
