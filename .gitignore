@@ -1,0 +1,21 @@
+# Docker
+.dockerignore
+
+# Odoo data
+odoo-data/
+db-data/
+filestore/
+sessions/
+
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# Config
+config/odoo.conf
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
