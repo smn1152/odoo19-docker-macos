@@ -6,7 +6,7 @@ services:
     volumes:
       - odoo-data:/var/lib/odoo
       - ./addons:/mnt/custom-addons
-      - ./config/odoo.conf:/etc/odoo/odoo.conf
+      - ./config/odoo.conf:/etc/odoo/odoo.conf:ro
     environment:
       - ADDONS_PATH=/odoo/odoo-src/odoo/addons,/mnt/custom-addons
     depends_on:
